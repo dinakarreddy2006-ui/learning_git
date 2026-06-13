@@ -1,6 +1,0 @@
-learing:
-java
-git
-GitHub
-DSA
-python
