@@ -1,0 +1,3 @@
+name: A.Dinakar
+class: B.Tech IInd year
+cgpa:8.6
