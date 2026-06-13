@@ -1,4 +1,6 @@
 learing:
 java
 git
-github
+GitHub
+DSA
+python
